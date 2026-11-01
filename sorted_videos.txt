@@ -1,0 +1,94 @@
+# The Ultimate Docker Course
+
+1. Getting Started  [s1.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1QSWw2Pgv-yAG6y4n5sQGK80QSElbAfuP/preview
+    002. Prerequisites  ->  https://drive.google.com/file/d/1E8ufOm_7UTod9uReKlFMpLiNeIqkuVU-/preview
+    003. How to Take this Course  ->  https://drive.google.com/file/d/1QxWfBG-Pz-S0CZYvzSGxbV9IJ3cKuPNt/preview
+
+2. Introduction to Docker  [s2.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1rEz0fZTpmsJcqMTLXJtSWbfOsK5qE51F/preview
+    002. What is Docker  ->  https://drive.google.com/file/d/1Phv2pd0tWv_kP5vI8GhLiXfdy6QGLDRy/preview
+    003. Virtual Machines vs Containers  ->  https://drive.google.com/file/d/1a4ZYHUa1atmzGZIF-HWDZz4s648vRTQZ/preview
+    004. Docker Architecture  ->  https://drive.google.com/file/d/1UlJZntEheNlo-1AH1Ethl2nCP0VIsEeY/preview
+    005. Installing Docker  ->  https://drive.google.com/file/d/1TN5Cqzc4coDjylaDoi5JrIkNXvcWrORP/preview
+    006. Development Workflow  ->  https://drive.google.com/file/d/10h4iWr-gzH3AuSiKAwO8vRvO-cmB3VVp/preview
+    007. Docker in Action  ->  https://drive.google.com/file/d/1j5iWUQk-hGO9DhVldxs1gsFU4Lh-8QyM/preview
+
+3. The Linux Command Line  [s3.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1F392uBUMbs3QKfLwxncaC9Nd_hIR8f6M/preview
+    002. Linux Distributions  ->  https://drive.google.com/file/d/1zHpPi3dlWbeLvyHL4kiRNsWBWlJ32aXr/preview
+    003. Running Linux  ->  https://drive.google.com/file/d/1PKMbxSmnMfSCosz8-95CKSZduyIgnmMo/preview
+    004. Managing Packages  ->  https://drive.google.com/file/d/1sVMvH7dyz9fhtpWGXsLNk4rgVAq0isrh/preview
+    005. Linux File System  ->  https://drive.google.com/file/d/1deX9_uPoiDnWWbeA54P-fi_gzAGjOYBE/preview
+    006. Navigating the File System  ->  https://drive.google.com/file/d/1Lt8dFJ_gfYuIVtY_axLLHc_HoN4hATkL/preview
+    007. Manipulating Files and Directories  ->  https://drive.google.com/file/d/1k5gRfy0lAigP5iEFHvxUmqzbcoUSsgHF/preview
+    008. Editing and Viewing Files  ->  https://drive.google.com/file/d/1-CTktQ8TVdSChbYHatCtOdS7-ZXpC2f3/preview
+    009. Redirection  ->  https://drive.google.com/file/d/14fpk_S4oTj0Kq729bAVRTHjLXHNlz_6L/preview
+    010. Searching for Text  ->  https://drive.google.com/file/d/1sFvK7ZFveE5EArGba8emdNwlPNXoPMWK/preview
+    011. Finding Files and Directories  ->  https://drive.google.com/file/d/1Eg-8GCuF9ZLrorr4oHjaWtKjWm3qmTuM/preview
+    012. Chaining Commands  ->  https://drive.google.com/file/d/1AtchbwvR-sRTi15qHpfI0eFVXP7CNlkI/preview
+    013. Environment Variables  ->  https://drive.google.com/file/d/1inZVGefbvePVEWH5SdzKxn2Fe3uPh4GI/preview
+    014. Managing Processes  ->  https://drive.google.com/file/d/1XKgdc-1OhvsTZ4RiOy2YFc_3hUyAX5g9/preview
+    015. Managing Users  ->  https://drive.google.com/file/d/1g5kLNRTmfsupzn-43bVbt-Su5evmdefz/preview
+    016. Managing Groups  ->  https://drive.google.com/file/d/1xHbwIvR2I0JAJnjNx864kfUOm4Y86Siq/preview
+    017. File Permissions  ->  https://drive.google.com/file/d/14-APQC5uPsAGVRoxZGvSqpOtlPa6Qj-A/preview
+
+4. Building Images  [s4.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1TlhF3TL9xswOr_8_54VIhZdDBy3tPN1p/preview
+    002. Images and Containers  ->  https://drive.google.com/file/d/1vfRBqKYPbJjKP6PvXUlVh1i92Q7neATz/preview
+    003. Sample Web Application  ->  https://drive.google.com/file/d/1tXqrlsbwjQ781cnxVbbWZt61dBx5bQ0o/preview
+    004. Dockerfile Instructions  ->  https://drive.google.com/file/d/1P--iBTXfRaHGQWCLhqo0TAtsNXyffPNd/preview
+    005. Choosing the Right Base Image  ->  https://drive.google.com/file/d/1sR0AREUEWcjGzjXBl4PsWldGVSV_otd_/preview
+    006. Copying Files and Directories  ->  https://drive.google.com/file/d/1TyQMyOmFp8Nk8k_vZIImTjPkw9VwaROr/preview
+    007. Excluding Files and Directories  ->  https://drive.google.com/file/d/1Gs3D4w4455Kmc0tVbZ400H6hjl25RCx6/preview
+    008. Running Commands  ->  https://drive.google.com/file/d/1zK3GBiIRMo_e8D7j4kCNNK34foL8N78u/preview
+    009. Setting Environment Variables  ->  https://drive.google.com/file/d/1RPscbC-UNe9SGo8fTNUKrWvm0H6hP0Uh/preview
+    010. Exposing Ports  ->  https://drive.google.com/file/d/1QIaAYmc9kfus-R8TlzMnEsBR-J40r3ua/preview
+    011. Setting the User  ->  https://drive.google.com/file/d/162OjvVhBuR0qI2jYq5go58_1uYXcnKY0/preview
+    012. Defining Entrypoints  ->  https://drive.google.com/file/d/1ZgVQEa6gLYpZyyamHkjk4eVUip6OWaaq/preview
+    013. Speeding Up Builds  ->  https://drive.google.com/file/d/1IZrwKxTErGLlWGVkdMywJq8xdLw-XRo_/preview
+    014. Removing Images  ->  https://drive.google.com/file/d/1FhU4N45pnAaIHyJbGAMKMl-gmqZLoE0O/preview
+    015. Tagging Images  ->  https://drive.google.com/file/d/1P0k2iwnskag7-HYxXfWEhoZv-WzcgIZV/preview
+    016. Sharing Images  ->  https://drive.google.com/file/d/1K9aWxnDsSL5Md5F3VloDIt8PHkCT1awz/preview
+    017. Saving and Loading Images  ->  https://drive.google.com/file/d/15HIrzADBX8-GiN8gHA_pkNPZx-Yhldnl/preview
+
+5. Working with Containers  [s5.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1tGowM-9uytEByD6XxuDkTnnPGJsx6nL0/preview
+    002. Starting Containers  ->  https://drive.google.com/file/d/1F6zEDsHzeAC9YqdUmv3FGFm_AkIvkE88/preview
+    003. Viewing the Logs  ->  https://drive.google.com/file/d/1lrs85wYzfWSxstvZ0YJqCmb8VU7iqFer/preview
+    004. Publishing Ports  ->  https://drive.google.com/file/d/1SHNYTGcdpRv8sF__1LC9uGsQGW7or5n9/preview
+    005. Executing Commands in Running Containers  ->  https://drive.google.com/file/d/1itgJ1hh2cThFcAYgJAx9KuMqo_QnLUYm/preview
+    006. Stopping and Starting Containers  ->  https://drive.google.com/file/d/1XTvQsPexbchuuuYvg58HX9cWgmIE0tMW/preview
+    007. Removing Containers  ->  https://drive.google.com/file/d/15NJKoyC9O-WGMBKoEFxowDH9S06Wi20y/preview
+    008. Containers File System  ->  https://drive.google.com/file/d/1hR3F2joZ7guZyWBGGj5RlACNRCEAFeDj/preview
+    009. Persisting Data using Volumes  ->  https://drive.google.com/file/d/1TYoc2R5vyXaAtvJ5mA6fcfdCJdNufhqV/preview
+    010. Copying Files between the Host and Containers  ->  https://drive.google.com/file/d/1z0qqaZW7W7rVF4ROtsFbl_JPFoCZESNf/preview
+    011. Sharing the Source Code with a Container  ->  https://drive.google.com/file/d/1TNPKOwFWgxTS0hkT_nsMMsEyFAk9eJ2b/preview
+
+6. Running Multi-container Applications  [s6.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1Fyo2utd_-QS12ryknUKkrofedl2ZEdhC/preview
+    002. Installing Docker Compose  ->  https://drive.google.com/file/d/1xTHIMw5w3hEu_4aEw6uDyYR9KusZMwT5/preview
+    003. Cleaning Up our Workspace  ->  https://drive.google.com/file/d/1JwAz6Xbp9qQWhUwtRTMtNFgtfq3xLvJn/preview
+    004. The Sample Web Application  ->  https://drive.google.com/file/d/1urcENS6EwTofd0K1ctUxh89Y06r3OA94/preview
+    005. JSON and YAML Formats  ->  https://drive.google.com/file/d/18maMFgS0xPQAvVU2XqA_4hsuX9MpUswr/preview
+    006. Creating a Compose File  ->  https://drive.google.com/file/d/12ktuc-E5n9MpRgH3BlFHU5JdAZrMqrjS/preview
+    007. Building Images  ->  https://drive.google.com/file/d/1GZpR5xfRgEMwuF_zq-fHL_vq6Zo2eFkT/preview
+    008. Starting and Stopping the Application  ->  https://drive.google.com/file/d/1wwCIagua2MQ5seng0d6n9sqYnm-rVzsI/preview
+    009. Docker Networking  ->  https://drive.google.com/file/d/14SSfeHnEKnz4EzJrg0wYTaUtnjR77wPS/preview
+    010. Viewing Logs  ->  https://drive.google.com/file/d/1MZRm5OezBoDzP3CR-b0LTY4fNCpt9zqr/preview
+    011. Publishing Changes  ->  https://drive.google.com/file/d/1Z9wHYOu971txDJf6yf0sBcrRnGSJWmPn/preview
+    012. Migrating the Database  ->  https://drive.google.com/file/d/17btGbhERytDNhwOIoL4ohJUU6ec1TwDm/preview
+    013. Running Tests  ->  https://drive.google.com/file/d/1NxDb8WN6GRLwBc8DJqmfYloj229cdkHY/preview
+
+7. Deploying Applications  [s7.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1aFF7pe7po4n1zXMKLaeQj-pjvPHu6WJg/preview
+    002. Deployment Options  ->  https://drive.google.com/file/d/1zMU-FL40F8O7CqDxK6fDlzO9ynkEFCPt/preview
+    003. Getting a Virtual Private Server  ->  https://drive.google.com/file/d/1la_dUfRx1oZhlbzXEPwuf0RW4VgrRK_e/preview
+    004. Installing Docker Machine  ->  https://drive.google.com/file/d/1R7FgfZmTZXw8Gg5HaaDMSTPXD1wLn1NG/preview
+    005. Provisioning a Host  ->  https://drive.google.com/file/d/1d-5p4fc68cFv65jl1epBr7po7RzpCUid/preview
+    006. Connecting to the Host  ->  https://drive.google.com/file/d/1MIW41bHnFeqXvkwvkKOd8lUsmemz2rNB/preview
+    007. Defining the Production Configuration  ->  https://drive.google.com/file/d/1MZTW4A4pK2MLoCuj7nEcJLD5LVc9EC6v/preview
+    008. Reducing the Image Size  ->  https://drive.google.com/file/d/1Z-igDPFRRfWXXj2-gr5c_ubdVGbdFU0S/preview
+    009. Deploying the Application  ->  https://drive.google.com/file/d/1gQTHdAc_T0G76l_YUlQZI4BSiRAmOgr9/preview
+    010. Troubleshooting Deployment Issues  ->  https://drive.google.com/file/d/1hGYIp7UA3rth9LBU95vjMvjg5xQCJPFV/preview
+    011. Publishing Changes  ->  https://drive.google.com/file/d/1gEryMfyvin8P6dKz2LqKR_W9YGQfTAWJ/preview

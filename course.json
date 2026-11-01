@@ -1,0 +1,611 @@
+{
+  "name": "The Ultimate Docker Course",
+  "slug": "The_Ultimate_Docker_Course",
+  "url": "https://LexCode30.github.io/The_Ultimate_Docker_Course/",
+  "category": "systems",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Getting Started",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1QSWw2Pgv-yAG6y4n5sQGK80QSElbAfuP",
+          "anchor": "v-1QSWw2Pgv-yAG6y4n5sQGK80QSElbAfuP",
+          "href": "s1.html#v-1QSWw2Pgv-yAG6y4n5sQGK80QSElbAfuP"
+        },
+        {
+          "number": 2,
+          "title": "Prerequisites",
+          "id": "1E8ufOm_7UTod9uReKlFMpLiNeIqkuVU-",
+          "anchor": "v-1E8ufOm_7UTod9uReKlFMpLiNeIqkuVU-",
+          "href": "s1.html#v-1E8ufOm_7UTod9uReKlFMpLiNeIqkuVU-"
+        },
+        {
+          "number": 3,
+          "title": "How to Take this Course",
+          "id": "1QxWfBG-Pz-S0CZYvzSGxbV9IJ3cKuPNt",
+          "anchor": "v-1QxWfBG-Pz-S0CZYvzSGxbV9IJ3cKuPNt",
+          "href": "s1.html#v-1QxWfBG-Pz-S0CZYvzSGxbV9IJ3cKuPNt"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction to Docker",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1rEz0fZTpmsJcqMTLXJtSWbfOsK5qE51F",
+          "anchor": "v-1rEz0fZTpmsJcqMTLXJtSWbfOsK5qE51F",
+          "href": "s2.html#v-1rEz0fZTpmsJcqMTLXJtSWbfOsK5qE51F"
+        },
+        {
+          "number": 2,
+          "title": "What is Docker",
+          "id": "1Phv2pd0tWv_kP5vI8GhLiXfdy6QGLDRy",
+          "anchor": "v-1Phv2pd0tWv_kP5vI8GhLiXfdy6QGLDRy",
+          "href": "s2.html#v-1Phv2pd0tWv_kP5vI8GhLiXfdy6QGLDRy"
+        },
+        {
+          "number": 3,
+          "title": "Virtual Machines vs Containers",
+          "id": "1a4ZYHUa1atmzGZIF-HWDZz4s648vRTQZ",
+          "anchor": "v-1a4ZYHUa1atmzGZIF-HWDZz4s648vRTQZ",
+          "href": "s2.html#v-1a4ZYHUa1atmzGZIF-HWDZz4s648vRTQZ"
+        },
+        {
+          "number": 4,
+          "title": "Docker Architecture",
+          "id": "1UlJZntEheNlo-1AH1Ethl2nCP0VIsEeY",
+          "anchor": "v-1UlJZntEheNlo-1AH1Ethl2nCP0VIsEeY",
+          "href": "s2.html#v-1UlJZntEheNlo-1AH1Ethl2nCP0VIsEeY"
+        },
+        {
+          "number": 5,
+          "title": "Installing Docker",
+          "id": "1TN5Cqzc4coDjylaDoi5JrIkNXvcWrORP",
+          "anchor": "v-1TN5Cqzc4coDjylaDoi5JrIkNXvcWrORP",
+          "href": "s2.html#v-1TN5Cqzc4coDjylaDoi5JrIkNXvcWrORP"
+        },
+        {
+          "number": 6,
+          "title": "Development Workflow",
+          "id": "10h4iWr-gzH3AuSiKAwO8vRvO-cmB3VVp",
+          "anchor": "v-10h4iWr-gzH3AuSiKAwO8vRvO-cmB3VVp",
+          "href": "s2.html#v-10h4iWr-gzH3AuSiKAwO8vRvO-cmB3VVp"
+        },
+        {
+          "number": 7,
+          "title": "Docker in Action",
+          "id": "1j5iWUQk-hGO9DhVldxs1gsFU4Lh-8QyM",
+          "anchor": "v-1j5iWUQk-hGO9DhVldxs1gsFU4Lh-8QyM",
+          "href": "s2.html#v-1j5iWUQk-hGO9DhVldxs1gsFU4Lh-8QyM"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Linux Command Line",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1F392uBUMbs3QKfLwxncaC9Nd_hIR8f6M",
+          "anchor": "v-1F392uBUMbs3QKfLwxncaC9Nd_hIR8f6M",
+          "href": "s3.html#v-1F392uBUMbs3QKfLwxncaC9Nd_hIR8f6M"
+        },
+        {
+          "number": 2,
+          "title": "Linux Distributions",
+          "id": "1zHpPi3dlWbeLvyHL4kiRNsWBWlJ32aXr",
+          "anchor": "v-1zHpPi3dlWbeLvyHL4kiRNsWBWlJ32aXr",
+          "href": "s3.html#v-1zHpPi3dlWbeLvyHL4kiRNsWBWlJ32aXr"
+        },
+        {
+          "number": 3,
+          "title": "Running Linux",
+          "id": "1PKMbxSmnMfSCosz8-95CKSZduyIgnmMo",
+          "anchor": "v-1PKMbxSmnMfSCosz8-95CKSZduyIgnmMo",
+          "href": "s3.html#v-1PKMbxSmnMfSCosz8-95CKSZduyIgnmMo"
+        },
+        {
+          "number": 4,
+          "title": "Managing Packages",
+          "id": "1sVMvH7dyz9fhtpWGXsLNk4rgVAq0isrh",
+          "anchor": "v-1sVMvH7dyz9fhtpWGXsLNk4rgVAq0isrh",
+          "href": "s3.html#v-1sVMvH7dyz9fhtpWGXsLNk4rgVAq0isrh"
+        },
+        {
+          "number": 5,
+          "title": "Linux File System",
+          "id": "1deX9_uPoiDnWWbeA54P-fi_gzAGjOYBE",
+          "anchor": "v-1deX9_uPoiDnWWbeA54P-fi_gzAGjOYBE",
+          "href": "s3.html#v-1deX9_uPoiDnWWbeA54P-fi_gzAGjOYBE"
+        },
+        {
+          "number": 6,
+          "title": "Navigating the File System",
+          "id": "1Lt8dFJ_gfYuIVtY_axLLHc_HoN4hATkL",
+          "anchor": "v-1Lt8dFJ_gfYuIVtY_axLLHc_HoN4hATkL",
+          "href": "s3.html#v-1Lt8dFJ_gfYuIVtY_axLLHc_HoN4hATkL"
+        },
+        {
+          "number": 7,
+          "title": "Manipulating Files and Directories",
+          "id": "1k5gRfy0lAigP5iEFHvxUmqzbcoUSsgHF",
+          "anchor": "v-1k5gRfy0lAigP5iEFHvxUmqzbcoUSsgHF",
+          "href": "s3.html#v-1k5gRfy0lAigP5iEFHvxUmqzbcoUSsgHF"
+        },
+        {
+          "number": 8,
+          "title": "Editing and Viewing Files",
+          "id": "1-CTktQ8TVdSChbYHatCtOdS7-ZXpC2f3",
+          "anchor": "v-1-CTktQ8TVdSChbYHatCtOdS7-ZXpC2f3",
+          "href": "s3.html#v-1-CTktQ8TVdSChbYHatCtOdS7-ZXpC2f3"
+        },
+        {
+          "number": 9,
+          "title": "Redirection",
+          "id": "14fpk_S4oTj0Kq729bAVRTHjLXHNlz_6L",
+          "anchor": "v-14fpk_S4oTj0Kq729bAVRTHjLXHNlz_6L",
+          "href": "s3.html#v-14fpk_S4oTj0Kq729bAVRTHjLXHNlz_6L"
+        },
+        {
+          "number": 10,
+          "title": "Searching for Text",
+          "id": "1sFvK7ZFveE5EArGba8emdNwlPNXoPMWK",
+          "anchor": "v-1sFvK7ZFveE5EArGba8emdNwlPNXoPMWK",
+          "href": "s3.html#v-1sFvK7ZFveE5EArGba8emdNwlPNXoPMWK"
+        },
+        {
+          "number": 11,
+          "title": "Finding Files and Directories",
+          "id": "1Eg-8GCuF9ZLrorr4oHjaWtKjWm3qmTuM",
+          "anchor": "v-1Eg-8GCuF9ZLrorr4oHjaWtKjWm3qmTuM",
+          "href": "s3.html#v-1Eg-8GCuF9ZLrorr4oHjaWtKjWm3qmTuM"
+        },
+        {
+          "number": 12,
+          "title": "Chaining Commands",
+          "id": "1AtchbwvR-sRTi15qHpfI0eFVXP7CNlkI",
+          "anchor": "v-1AtchbwvR-sRTi15qHpfI0eFVXP7CNlkI",
+          "href": "s3.html#v-1AtchbwvR-sRTi15qHpfI0eFVXP7CNlkI"
+        },
+        {
+          "number": 13,
+          "title": "Environment Variables",
+          "id": "1inZVGefbvePVEWH5SdzKxn2Fe3uPh4GI",
+          "anchor": "v-1inZVGefbvePVEWH5SdzKxn2Fe3uPh4GI",
+          "href": "s3.html#v-1inZVGefbvePVEWH5SdzKxn2Fe3uPh4GI"
+        },
+        {
+          "number": 14,
+          "title": "Managing Processes",
+          "id": "1XKgdc-1OhvsTZ4RiOy2YFc_3hUyAX5g9",
+          "anchor": "v-1XKgdc-1OhvsTZ4RiOy2YFc_3hUyAX5g9",
+          "href": "s3.html#v-1XKgdc-1OhvsTZ4RiOy2YFc_3hUyAX5g9"
+        },
+        {
+          "number": 15,
+          "title": "Managing Users",
+          "id": "1g5kLNRTmfsupzn-43bVbt-Su5evmdefz",
+          "anchor": "v-1g5kLNRTmfsupzn-43bVbt-Su5evmdefz",
+          "href": "s3.html#v-1g5kLNRTmfsupzn-43bVbt-Su5evmdefz"
+        },
+        {
+          "number": 16,
+          "title": "Managing Groups",
+          "id": "1xHbwIvR2I0JAJnjNx864kfUOm4Y86Siq",
+          "anchor": "v-1xHbwIvR2I0JAJnjNx864kfUOm4Y86Siq",
+          "href": "s3.html#v-1xHbwIvR2I0JAJnjNx864kfUOm4Y86Siq"
+        },
+        {
+          "number": 17,
+          "title": "File Permissions",
+          "id": "14-APQC5uPsAGVRoxZGvSqpOtlPa6Qj-A",
+          "anchor": "v-14-APQC5uPsAGVRoxZGvSqpOtlPa6Qj-A",
+          "href": "s3.html#v-14-APQC5uPsAGVRoxZGvSqpOtlPa6Qj-A"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Building Images",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1TlhF3TL9xswOr_8_54VIhZdDBy3tPN1p",
+          "anchor": "v-1TlhF3TL9xswOr_8_54VIhZdDBy3tPN1p",
+          "href": "s4.html#v-1TlhF3TL9xswOr_8_54VIhZdDBy3tPN1p"
+        },
+        {
+          "number": 2,
+          "title": "Images and Containers",
+          "id": "1vfRBqKYPbJjKP6PvXUlVh1i92Q7neATz",
+          "anchor": "v-1vfRBqKYPbJjKP6PvXUlVh1i92Q7neATz",
+          "href": "s4.html#v-1vfRBqKYPbJjKP6PvXUlVh1i92Q7neATz"
+        },
+        {
+          "number": 3,
+          "title": "Sample Web Application",
+          "id": "1tXqrlsbwjQ781cnxVbbWZt61dBx5bQ0o",
+          "anchor": "v-1tXqrlsbwjQ781cnxVbbWZt61dBx5bQ0o",
+          "href": "s4.html#v-1tXqrlsbwjQ781cnxVbbWZt61dBx5bQ0o"
+        },
+        {
+          "number": 4,
+          "title": "Dockerfile Instructions",
+          "id": "1P--iBTXfRaHGQWCLhqo0TAtsNXyffPNd",
+          "anchor": "v-1P--iBTXfRaHGQWCLhqo0TAtsNXyffPNd",
+          "href": "s4.html#v-1P--iBTXfRaHGQWCLhqo0TAtsNXyffPNd"
+        },
+        {
+          "number": 5,
+          "title": "Choosing the Right Base Image",
+          "id": "1sR0AREUEWcjGzjXBl4PsWldGVSV_otd_",
+          "anchor": "v-1sR0AREUEWcjGzjXBl4PsWldGVSV_otd_",
+          "href": "s4.html#v-1sR0AREUEWcjGzjXBl4PsWldGVSV_otd_"
+        },
+        {
+          "number": 6,
+          "title": "Copying Files and Directories",
+          "id": "1TyQMyOmFp8Nk8k_vZIImTjPkw9VwaROr",
+          "anchor": "v-1TyQMyOmFp8Nk8k_vZIImTjPkw9VwaROr",
+          "href": "s4.html#v-1TyQMyOmFp8Nk8k_vZIImTjPkw9VwaROr"
+        },
+        {
+          "number": 7,
+          "title": "Excluding Files and Directories",
+          "id": "1Gs3D4w4455Kmc0tVbZ400H6hjl25RCx6",
+          "anchor": "v-1Gs3D4w4455Kmc0tVbZ400H6hjl25RCx6",
+          "href": "s4.html#v-1Gs3D4w4455Kmc0tVbZ400H6hjl25RCx6"
+        },
+        {
+          "number": 8,
+          "title": "Running Commands",
+          "id": "1zK3GBiIRMo_e8D7j4kCNNK34foL8N78u",
+          "anchor": "v-1zK3GBiIRMo_e8D7j4kCNNK34foL8N78u",
+          "href": "s4.html#v-1zK3GBiIRMo_e8D7j4kCNNK34foL8N78u"
+        },
+        {
+          "number": 9,
+          "title": "Setting Environment Variables",
+          "id": "1RPscbC-UNe9SGo8fTNUKrWvm0H6hP0Uh",
+          "anchor": "v-1RPscbC-UNe9SGo8fTNUKrWvm0H6hP0Uh",
+          "href": "s4.html#v-1RPscbC-UNe9SGo8fTNUKrWvm0H6hP0Uh"
+        },
+        {
+          "number": 10,
+          "title": "Exposing Ports",
+          "id": "1QIaAYmc9kfus-R8TlzMnEsBR-J40r3ua",
+          "anchor": "v-1QIaAYmc9kfus-R8TlzMnEsBR-J40r3ua",
+          "href": "s4.html#v-1QIaAYmc9kfus-R8TlzMnEsBR-J40r3ua"
+        },
+        {
+          "number": 11,
+          "title": "Setting the User",
+          "id": "162OjvVhBuR0qI2jYq5go58_1uYXcnKY0",
+          "anchor": "v-162OjvVhBuR0qI2jYq5go58_1uYXcnKY0",
+          "href": "s4.html#v-162OjvVhBuR0qI2jYq5go58_1uYXcnKY0"
+        },
+        {
+          "number": 12,
+          "title": "Defining Entrypoints",
+          "id": "1ZgVQEa6gLYpZyyamHkjk4eVUip6OWaaq",
+          "anchor": "v-1ZgVQEa6gLYpZyyamHkjk4eVUip6OWaaq",
+          "href": "s4.html#v-1ZgVQEa6gLYpZyyamHkjk4eVUip6OWaaq"
+        },
+        {
+          "number": 13,
+          "title": "Speeding Up Builds",
+          "id": "1IZrwKxTErGLlWGVkdMywJq8xdLw-XRo_",
+          "anchor": "v-1IZrwKxTErGLlWGVkdMywJq8xdLw-XRo_",
+          "href": "s4.html#v-1IZrwKxTErGLlWGVkdMywJq8xdLw-XRo_"
+        },
+        {
+          "number": 14,
+          "title": "Removing Images",
+          "id": "1FhU4N45pnAaIHyJbGAMKMl-gmqZLoE0O",
+          "anchor": "v-1FhU4N45pnAaIHyJbGAMKMl-gmqZLoE0O",
+          "href": "s4.html#v-1FhU4N45pnAaIHyJbGAMKMl-gmqZLoE0O"
+        },
+        {
+          "number": 15,
+          "title": "Tagging Images",
+          "id": "1P0k2iwnskag7-HYxXfWEhoZv-WzcgIZV",
+          "anchor": "v-1P0k2iwnskag7-HYxXfWEhoZv-WzcgIZV",
+          "href": "s4.html#v-1P0k2iwnskag7-HYxXfWEhoZv-WzcgIZV"
+        },
+        {
+          "number": 16,
+          "title": "Sharing Images",
+          "id": "1K9aWxnDsSL5Md5F3VloDIt8PHkCT1awz",
+          "anchor": "v-1K9aWxnDsSL5Md5F3VloDIt8PHkCT1awz",
+          "href": "s4.html#v-1K9aWxnDsSL5Md5F3VloDIt8PHkCT1awz"
+        },
+        {
+          "number": 17,
+          "title": "Saving and Loading Images",
+          "id": "15HIrzADBX8-GiN8gHA_pkNPZx-Yhldnl",
+          "anchor": "v-15HIrzADBX8-GiN8gHA_pkNPZx-Yhldnl",
+          "href": "s4.html#v-15HIrzADBX8-GiN8gHA_pkNPZx-Yhldnl"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Working with Containers",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1tGowM-9uytEByD6XxuDkTnnPGJsx6nL0",
+          "anchor": "v-1tGowM-9uytEByD6XxuDkTnnPGJsx6nL0",
+          "href": "s5.html#v-1tGowM-9uytEByD6XxuDkTnnPGJsx6nL0"
+        },
+        {
+          "number": 2,
+          "title": "Starting Containers",
+          "id": "1F6zEDsHzeAC9YqdUmv3FGFm_AkIvkE88",
+          "anchor": "v-1F6zEDsHzeAC9YqdUmv3FGFm_AkIvkE88",
+          "href": "s5.html#v-1F6zEDsHzeAC9YqdUmv3FGFm_AkIvkE88"
+        },
+        {
+          "number": 3,
+          "title": "Viewing the Logs",
+          "id": "1lrs85wYzfWSxstvZ0YJqCmb8VU7iqFer",
+          "anchor": "v-1lrs85wYzfWSxstvZ0YJqCmb8VU7iqFer",
+          "href": "s5.html#v-1lrs85wYzfWSxstvZ0YJqCmb8VU7iqFer"
+        },
+        {
+          "number": 4,
+          "title": "Publishing Ports",
+          "id": "1SHNYTGcdpRv8sF__1LC9uGsQGW7or5n9",
+          "anchor": "v-1SHNYTGcdpRv8sF__1LC9uGsQGW7or5n9",
+          "href": "s5.html#v-1SHNYTGcdpRv8sF__1LC9uGsQGW7or5n9"
+        },
+        {
+          "number": 5,
+          "title": "Executing Commands in Running Containers",
+          "id": "1itgJ1hh2cThFcAYgJAx9KuMqo_QnLUYm",
+          "anchor": "v-1itgJ1hh2cThFcAYgJAx9KuMqo_QnLUYm",
+          "href": "s5.html#v-1itgJ1hh2cThFcAYgJAx9KuMqo_QnLUYm"
+        },
+        {
+          "number": 6,
+          "title": "Stopping and Starting Containers",
+          "id": "1XTvQsPexbchuuuYvg58HX9cWgmIE0tMW",
+          "anchor": "v-1XTvQsPexbchuuuYvg58HX9cWgmIE0tMW",
+          "href": "s5.html#v-1XTvQsPexbchuuuYvg58HX9cWgmIE0tMW"
+        },
+        {
+          "number": 7,
+          "title": "Removing Containers",
+          "id": "15NJKoyC9O-WGMBKoEFxowDH9S06Wi20y",
+          "anchor": "v-15NJKoyC9O-WGMBKoEFxowDH9S06Wi20y",
+          "href": "s5.html#v-15NJKoyC9O-WGMBKoEFxowDH9S06Wi20y"
+        },
+        {
+          "number": 8,
+          "title": "Containers File System",
+          "id": "1hR3F2joZ7guZyWBGGj5RlACNRCEAFeDj",
+          "anchor": "v-1hR3F2joZ7guZyWBGGj5RlACNRCEAFeDj",
+          "href": "s5.html#v-1hR3F2joZ7guZyWBGGj5RlACNRCEAFeDj"
+        },
+        {
+          "number": 9,
+          "title": "Persisting Data using Volumes",
+          "id": "1TYoc2R5vyXaAtvJ5mA6fcfdCJdNufhqV",
+          "anchor": "v-1TYoc2R5vyXaAtvJ5mA6fcfdCJdNufhqV",
+          "href": "s5.html#v-1TYoc2R5vyXaAtvJ5mA6fcfdCJdNufhqV"
+        },
+        {
+          "number": 10,
+          "title": "Copying Files between the Host and Containers",
+          "id": "1z0qqaZW7W7rVF4ROtsFbl_JPFoCZESNf",
+          "anchor": "v-1z0qqaZW7W7rVF4ROtsFbl_JPFoCZESNf",
+          "href": "s5.html#v-1z0qqaZW7W7rVF4ROtsFbl_JPFoCZESNf"
+        },
+        {
+          "number": 11,
+          "title": "Sharing the Source Code with a Container",
+          "id": "1TNPKOwFWgxTS0hkT_nsMMsEyFAk9eJ2b",
+          "anchor": "v-1TNPKOwFWgxTS0hkT_nsMMsEyFAk9eJ2b",
+          "href": "s5.html#v-1TNPKOwFWgxTS0hkT_nsMMsEyFAk9eJ2b"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Running Multi-container Applications",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1Fyo2utd_-QS12ryknUKkrofedl2ZEdhC",
+          "anchor": "v-1Fyo2utd_-QS12ryknUKkrofedl2ZEdhC",
+          "href": "s6.html#v-1Fyo2utd_-QS12ryknUKkrofedl2ZEdhC"
+        },
+        {
+          "number": 2,
+          "title": "Installing Docker Compose",
+          "id": "1xTHIMw5w3hEu_4aEw6uDyYR9KusZMwT5",
+          "anchor": "v-1xTHIMw5w3hEu_4aEw6uDyYR9KusZMwT5",
+          "href": "s6.html#v-1xTHIMw5w3hEu_4aEw6uDyYR9KusZMwT5"
+        },
+        {
+          "number": 3,
+          "title": "Cleaning Up our Workspace",
+          "id": "1JwAz6Xbp9qQWhUwtRTMtNFgtfq3xLvJn",
+          "anchor": "v-1JwAz6Xbp9qQWhUwtRTMtNFgtfq3xLvJn",
+          "href": "s6.html#v-1JwAz6Xbp9qQWhUwtRTMtNFgtfq3xLvJn"
+        },
+        {
+          "number": 4,
+          "title": "The Sample Web Application",
+          "id": "1urcENS6EwTofd0K1ctUxh89Y06r3OA94",
+          "anchor": "v-1urcENS6EwTofd0K1ctUxh89Y06r3OA94",
+          "href": "s6.html#v-1urcENS6EwTofd0K1ctUxh89Y06r3OA94"
+        },
+        {
+          "number": 5,
+          "title": "JSON and YAML Formats",
+          "id": "18maMFgS0xPQAvVU2XqA_4hsuX9MpUswr",
+          "anchor": "v-18maMFgS0xPQAvVU2XqA_4hsuX9MpUswr",
+          "href": "s6.html#v-18maMFgS0xPQAvVU2XqA_4hsuX9MpUswr"
+        },
+        {
+          "number": 6,
+          "title": "Creating a Compose File",
+          "id": "12ktuc-E5n9MpRgH3BlFHU5JdAZrMqrjS",
+          "anchor": "v-12ktuc-E5n9MpRgH3BlFHU5JdAZrMqrjS",
+          "href": "s6.html#v-12ktuc-E5n9MpRgH3BlFHU5JdAZrMqrjS"
+        },
+        {
+          "number": 7,
+          "title": "Building Images",
+          "id": "1GZpR5xfRgEMwuF_zq-fHL_vq6Zo2eFkT",
+          "anchor": "v-1GZpR5xfRgEMwuF_zq-fHL_vq6Zo2eFkT",
+          "href": "s6.html#v-1GZpR5xfRgEMwuF_zq-fHL_vq6Zo2eFkT"
+        },
+        {
+          "number": 8,
+          "title": "Starting and Stopping the Application",
+          "id": "1wwCIagua2MQ5seng0d6n9sqYnm-rVzsI",
+          "anchor": "v-1wwCIagua2MQ5seng0d6n9sqYnm-rVzsI",
+          "href": "s6.html#v-1wwCIagua2MQ5seng0d6n9sqYnm-rVzsI"
+        },
+        {
+          "number": 9,
+          "title": "Docker Networking",
+          "id": "14SSfeHnEKnz4EzJrg0wYTaUtnjR77wPS",
+          "anchor": "v-14SSfeHnEKnz4EzJrg0wYTaUtnjR77wPS",
+          "href": "s6.html#v-14SSfeHnEKnz4EzJrg0wYTaUtnjR77wPS"
+        },
+        {
+          "number": 10,
+          "title": "Viewing Logs",
+          "id": "1MZRm5OezBoDzP3CR-b0LTY4fNCpt9zqr",
+          "anchor": "v-1MZRm5OezBoDzP3CR-b0LTY4fNCpt9zqr",
+          "href": "s6.html#v-1MZRm5OezBoDzP3CR-b0LTY4fNCpt9zqr"
+        },
+        {
+          "number": 11,
+          "title": "Publishing Changes",
+          "id": "1Z9wHYOu971txDJf6yf0sBcrRnGSJWmPn",
+          "anchor": "v-1Z9wHYOu971txDJf6yf0sBcrRnGSJWmPn",
+          "href": "s6.html#v-1Z9wHYOu971txDJf6yf0sBcrRnGSJWmPn"
+        },
+        {
+          "number": 12,
+          "title": "Migrating the Database",
+          "id": "17btGbhERytDNhwOIoL4ohJUU6ec1TwDm",
+          "anchor": "v-17btGbhERytDNhwOIoL4ohJUU6ec1TwDm",
+          "href": "s6.html#v-17btGbhERytDNhwOIoL4ohJUU6ec1TwDm"
+        },
+        {
+          "number": 13,
+          "title": "Running Tests",
+          "id": "1NxDb8WN6GRLwBc8DJqmfYloj229cdkHY",
+          "anchor": "v-1NxDb8WN6GRLwBc8DJqmfYloj229cdkHY",
+          "href": "s6.html#v-1NxDb8WN6GRLwBc8DJqmfYloj229cdkHY"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Deploying Applications",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1aFF7pe7po4n1zXMKLaeQj-pjvPHu6WJg",
+          "anchor": "v-1aFF7pe7po4n1zXMKLaeQj-pjvPHu6WJg",
+          "href": "s7.html#v-1aFF7pe7po4n1zXMKLaeQj-pjvPHu6WJg"
+        },
+        {
+          "number": 2,
+          "title": "Deployment Options",
+          "id": "1zMU-FL40F8O7CqDxK6fDlzO9ynkEFCPt",
+          "anchor": "v-1zMU-FL40F8O7CqDxK6fDlzO9ynkEFCPt",
+          "href": "s7.html#v-1zMU-FL40F8O7CqDxK6fDlzO9ynkEFCPt"
+        },
+        {
+          "number": 3,
+          "title": "Getting a Virtual Private Server",
+          "id": "1la_dUfRx1oZhlbzXEPwuf0RW4VgrRK_e",
+          "anchor": "v-1la_dUfRx1oZhlbzXEPwuf0RW4VgrRK_e",
+          "href": "s7.html#v-1la_dUfRx1oZhlbzXEPwuf0RW4VgrRK_e"
+        },
+        {
+          "number": 4,
+          "title": "Installing Docker Machine",
+          "id": "1R7FgfZmTZXw8Gg5HaaDMSTPXD1wLn1NG",
+          "anchor": "v-1R7FgfZmTZXw8Gg5HaaDMSTPXD1wLn1NG",
+          "href": "s7.html#v-1R7FgfZmTZXw8Gg5HaaDMSTPXD1wLn1NG"
+        },
+        {
+          "number": 5,
+          "title": "Provisioning a Host",
+          "id": "1d-5p4fc68cFv65jl1epBr7po7RzpCUid",
+          "anchor": "v-1d-5p4fc68cFv65jl1epBr7po7RzpCUid",
+          "href": "s7.html#v-1d-5p4fc68cFv65jl1epBr7po7RzpCUid"
+        },
+        {
+          "number": 6,
+          "title": "Connecting to the Host",
+          "id": "1MIW41bHnFeqXvkwvkKOd8lUsmemz2rNB",
+          "anchor": "v-1MIW41bHnFeqXvkwvkKOd8lUsmemz2rNB",
+          "href": "s7.html#v-1MIW41bHnFeqXvkwvkKOd8lUsmemz2rNB"
+        },
+        {
+          "number": 7,
+          "title": "Defining the Production Configuration",
+          "id": "1MZTW4A4pK2MLoCuj7nEcJLD5LVc9EC6v",
+          "anchor": "v-1MZTW4A4pK2MLoCuj7nEcJLD5LVc9EC6v",
+          "href": "s7.html#v-1MZTW4A4pK2MLoCuj7nEcJLD5LVc9EC6v"
+        },
+        {
+          "number": 8,
+          "title": "Reducing the Image Size",
+          "id": "1Z-igDPFRRfWXXj2-gr5c_ubdVGbdFU0S",
+          "anchor": "v-1Z-igDPFRRfWXXj2-gr5c_ubdVGbdFU0S",
+          "href": "s7.html#v-1Z-igDPFRRfWXXj2-gr5c_ubdVGbdFU0S"
+        },
+        {
+          "number": 9,
+          "title": "Deploying the Application",
+          "id": "1gQTHdAc_T0G76l_YUlQZI4BSiRAmOgr9",
+          "anchor": "v-1gQTHdAc_T0G76l_YUlQZI4BSiRAmOgr9",
+          "href": "s7.html#v-1gQTHdAc_T0G76l_YUlQZI4BSiRAmOgr9"
+        },
+        {
+          "number": 10,
+          "title": "Troubleshooting Deployment Issues",
+          "id": "1hGYIp7UA3rth9LBU95vjMvjg5xQCJPFV",
+          "anchor": "v-1hGYIp7UA3rth9LBU95vjMvjg5xQCJPFV",
+          "href": "s7.html#v-1hGYIp7UA3rth9LBU95vjMvjg5xQCJPFV"
+        },
+        {
+          "number": 11,
+          "title": "Publishing Changes",
+          "id": "1gEryMfyvin8P6dKz2LqKR_W9YGQfTAWJ",
+          "anchor": "v-1gEryMfyvin8P6dKz2LqKR_W9YGQfTAWJ",
+          "href": "s7.html#v-1gEryMfyvin8P6dKz2LqKR_W9YGQfTAWJ"
+        }
+      ]
+    }
+  ]
+}
